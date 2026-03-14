@@ -1,2 +1,2 @@
-pub mod prime_factorization;
+pub mod primes;
 pub mod palindrome;

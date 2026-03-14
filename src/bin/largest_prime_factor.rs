@@ -1,4 +1,4 @@
-use project_euler::prime_factorization::prime_factorization;
+use project_euler::primes::prime_factorization;
 
 const NUMBER: u64 = 600851475143;
 
